@@ -10,7 +10,7 @@ VetCraft Healthcare is a full-stack MERN web application developed to showcase v
 
 ## 🌐 Live Demo
 
-🔗 https://vetcraft-healthcare.vercel.app
+🔗 https://vet-craft.vercel.app
 
 ---
 
