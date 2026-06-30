@@ -82,3 +82,9 @@ vetcrafthealthcare@gmail.com
 ---
 
 © VetCraft Healthcare
+
+## 📌 Note
+
+This repository is intended to showcase the project, including its features, architecture, screenshots, and live deployment.
+
+The complete source code is maintained in a private repository due to ongoing development and project confidentiality.
