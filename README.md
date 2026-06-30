@@ -40,38 +40,38 @@ VetCraft Healthcare is a full-stack MERN web application developed to showcase v
 
 ### 🚀 Intro Page
 
-![Intro Page](screenshots/intro.png)
+![Intro Page](screenshots/intro.png.png)
 
 ---
 
 ### 📦 Product Catalog
 
-![Products](screenshots/products.png)
+![Products](screenshots/products.png.png)
 
 ---
 
 ### 📄 Product Details
 
-![Product Details](screenshots/details.png)
+![Product Details](screenshots/details.png.png)
 
 ---
 
 ### 📝 Product Description
 
-![Description](screenshots/description.png)
+![Description](screenshots/description.png.png)
 
 ---
 
 ### 🔍 Search Functionality
 
-![Search](screenshots/search.png)
+![Search](screenshots/search.png.png)
 
 
 ---
 
 ## 🏗 Architecture
 
-(Add architecture diagram here)
+![Architecture](architecture.png.png)
 
 ---
 
